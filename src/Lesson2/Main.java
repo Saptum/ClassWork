@@ -7,9 +7,11 @@ public class Main {
         cat.name ="soda";
 
         System.out.println(cat);
+
         System.out.println(cat.age);
         System.out.println(cat.name);
 
         cat.run();
+
     }
 }
